@@ -21,9 +21,3 @@
 | 22        | 111.40 |
 | 28        | 141.90 |
 | 42        | 213.00 |
-
-
-## Preview
-
-![Panels_all_white](https://user-images.githubusercontent.com/4960853/99857601-8f3aa100-2b59-11eb-8800-cfbcc50da3a0.png)
-
