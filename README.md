@@ -1,3 +1,10 @@
+<h1 align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/4960853/100156169-780bf400-2e76-11eb-8d44-0ac909425711.png" alt="Eurorack front panel" width="491">
+  <br>
+</h1>
+
+
 # Eurorack Blank Panels Collection
 
 | Module width [HP] | Module width [mm] |
